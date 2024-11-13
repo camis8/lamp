@@ -1,4 +1,4 @@
 # lamp
 Simples app para simular uma lâmpada
 
-!{}(img/lampQR.png)
+![](https://raw.githubusercontent.com/camis8/lamp/refs/heads/main/img/lampQR.png)
